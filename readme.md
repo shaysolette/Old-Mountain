@@ -15,7 +15,10 @@ file included with this repository.
 ##Files
 
 This novel is available in html5 and plain text formats. The "text" folder
-contains the plain text files for each chapter.
+contains the plain text files for each chapter.  The text is pre-marked with
+html paragraph tags for formatting. The template.html file provides a blank
+template for creating pages. Each chapter.txt file can be imported into the body
+of this template.
 
 ##About the Author
 
