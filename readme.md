@@ -19,6 +19,6 @@ contains the plain text files for each chapter.
 
 ##About the Author
 
-Shay Sollete is a musician and amateur game designer from Ephrata, Pennsylvania.
+Shay Solette is a musician and amateur game designer from Ephrata, Pennsylvania.
 Old Mountain will be his first novel.  You can follow him on twitter under the
 username @ShaySolette, or email him at shay.solette@gmail.com
