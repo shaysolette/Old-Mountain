@@ -24,4 +24,4 @@ of this template.
 
 Shay Solette is a musician and amateur game designer from Ephrata, Pennsylvania.
 Old Mountain will be his first novel.  You can follow him on twitter under the
-username @ShaySolette, or email him at shay.solette@gmail.com
+username[https://twitter.com/ShaySolette](@ShaySolette), or email him at[mailto:shay.solette@gmail.com](shay.solette@gmail.com)
