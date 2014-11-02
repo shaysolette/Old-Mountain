@@ -1,0 +1,15 @@
+<p>Old Mountain is a novel being written by Shay Solette for National Novel Writing Month.  It will be his first
+novel. This novel will be written in one month, starting on 1 November 2014, and ending on 30 November 2014.
+Old Mountain is set in a gritty, low fantasy world, and is inspired by old western movies. The protagonist is
+a lone bounty hunter who must join forces with a rival in order to track down and apprehend the most wanted
+man in the outer territories.</p>
+
+<p>In order to survive in the hostile and unpredictable wilderness surrounding the town of Old Mountain, and
+gain the trust of it's natives, he must overcome his own prejudices, and deal with the demons of his past, all
+while struggling to cope with a reluctant new partner, who he is not sure if he can trust. Success will mean
+food on his plate for one more day.  Failure will mean death.</p>
+
+<p>Follow my progress as I write this novel, which will be available on GitHub. If you have any questions or
+suggestions, visit my contact page, and write me an email, or leave me a comment on twitter. If you like what
+you see here, and would like to use any of this material for a novel, website, game, or any creative work of
+your own, you may freely do so under the terms of the license found at the bottom of this page.</p>
